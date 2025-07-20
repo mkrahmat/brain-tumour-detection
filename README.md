@@ -3,6 +3,7 @@
 This project uses deep learning to detect brain tumors from X-ray scan images. The model is trained using labeled image datasets and can classify whether an image contains signs of a tumor.
 
 > ⚠️ Note: Several improvements, experiments, and evaluations can be done.
+- ( GET TRAIN FOLDER FROM GOOGLE DRIVE MENTIONED IN README FILE )
 
 ## 📂 Project Structure
 
