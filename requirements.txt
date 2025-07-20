@@ -5,3 +5,6 @@ matplotlib
 scikit-learn
 seaborn
 jupyter
+
+train folder: https://drive.google.com/drive/folders/1RsbzX3HQo08zMVZOYpuFEJvEANIPQ84-?usp=sharing
+test folder: https://drive.google.com/drive/folders/1PJQwB7L2S8rTd9YTqE-9xlsr8Zxry7ze?usp=sharing
