@@ -15,3 +15,24 @@ Each of the `train/` and `test/` folders has subfolders like:
 - meningioma_tumor
 - pituitary_tumor
 - no_tumor
+
+# 📌 Model Details
+Input: X-ray scan image of the brain
+
+Output: Classification → Tumor / No Tumor
+
+Frameworks Used: TensorFlow / Keras / OpenCV / NumPy
+
+# 🧪 Dataset
+The dataset consists of X-ray images organized into two categories:
+
+tumor/: Images labeled with the presence of a tumor
+
+no_tumor/: Images without any tumor indications
+
+Make sure you maintain this folder structure inside both train/ and test/.
+
+# 📌 Notes
+This is a prototype model — not for real medical use.
+
+Suggestions, improvements, or validations are welcome!
